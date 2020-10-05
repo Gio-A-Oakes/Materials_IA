@@ -1,7 +1,7 @@
 # Materials IA
 Useful references for Cambridge Materials Science IA course
 
-## Genral Materials Science refernces:
+## General Materials Science references:
 
 The first point of reference for any course is the handouts and the lectures themselves. However, some students might find a different explanation more intuitive or might want to gain a deeper understanding of a particular topic. As a result, here I will try to compile some useful resources:
 Many interactive learning packages have been created over the years at the Materials department present in [DoITPoMS](https://www.doitpoms.ac.uk/).
