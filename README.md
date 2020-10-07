@@ -22,7 +22,7 @@ A useful book that goes into more depth on most of the topics covered is *Moulso
 
 ## Course C: Diffraction:
 
-In this course, one of the most conceptually challenging topics covered is the idea of reciprocal space, which unfortunately cannot be mathematically understood without covering Fourier transforms, which is usually done in the second year. 
+In this course, one of the most conceptually challenging topics covered is the idea of reciprocal space, which unfortunately cannot be mathematically understood without covering Fourier transforms, which is usually done in the second year. As such, I have created a Jupyter notebook that you can run on your browser that goes through some of these concepts, which you can find [here](https://colab.research.google.com/github/Gio-A-Oakes/Materials_IA/blob/main/Jupyter_notebooks/Reciprical%20space.ipynb#scrollTo=lp80hNY4pkmA).
 
 ## Course D: Microstructure:
 
