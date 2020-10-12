@@ -17,20 +17,31 @@ I noticed that one of my previous lecturers has also decided to make a [GitHub p
 
 ## Course B: Materials for Devices:
 
-This course covers a variety of technologically relevant properties that certain types of materials have, such as magnetism, piezoelectricity, how batteries work etc.
-A useful book that goes into more depth on most of the topics covered is *Moulson, Anthony J., and John M. Herbert. Electroceramics: materials, properties, applications. John Wiley & Sons, 2003*.
+This course covers a variety of technologically relevant properties that certain types of materials have, in particular electrical and magnetic properties that are covered in more depth in *Moulson, Anthony J., and John M. Herbert. Electroceramics: materials, properties, applications. John Wiley & Sons, 2003* book.
 
 ## Course C: Diffraction:
 
-In this course, one of the most conceptually challenging topics covered is the idea of reciprocal space, which unfortunately cannot be mathematically understood without covering Fourier transforms, which is usually done in the second year. As such, I have created a Jupyter notebook that you can run on your browser that goes through some of these concepts, which you can find [here](https://colab.research.google.com/github/Gio-A-Oakes/Materials_IA/blob/main/Jupyter_notebooks/Reciprical%20space.ipynb#scrollTo=lp80hNY4pkmA).
+This course covers how to characterise crystalline materials by their difraction pattern when interacting with X-rays or electrons. 
+To reconstruct the crystalline structure from the resulting diffraction pattern, we need to be able to convert between real and reciprical space, which unfortunately cannot be mathematically understood without covering Fourier transforms, which is usually done in the second year. As such, I have created a Jupyter notebook that you can run on your browser that goes through some of these concepts, which you can find [here](https://colab.research.google.com/github/Gio-A-Oakes/Materials_IA/blob/main/Jupyter_notebooks/Reciprical%20space.ipynb#scrollTo=lp80hNY4pkmA).
 
 ## Course D: Microstructure:
 
+The mechanical properties of a material are not only dependent on the crystalline structure, but also its microstructure as different phases can be presemt.
+The microstructure that forms depends both on the thermodynamics and the kinetics between the different phases that are possible to form.
+A neat way to look into the thermodynamics is by using Monte Carlo simulations, which can be found here.
 A useful textbook that covers this course is [*Porter, David A., and Kenneth E. Easterling. Phase transformations in metals and alloys (revised reprint). CRC Press, 2009.*](https://ezp.lib.cam.ac.uk/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1763501&site=ehost-live&scope=site).
 Alternative lectures and lecture notes on this topic can be found [here](https://dyedavid.com/mse104/).
 
 ## Course E: Mechanical Behaviour of Materials:
 
+This course looks at how different structures covered in course A and D affect the mechanical properties of materials.
 A good reference on dislocations, can be found in [*Hull, Derek, and David J. Bacon. Introduction to dislocations. Butterworth-Heinemann, 2001.*
 ](https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA51621314410003606)
 
+## Course F: Biomaterials:
+
+The body is a very harsh and dynamic environment, as a result there are only a handful of materials that are bio-compatable. In this course materials-selection charts will be covered to select the most appropritate materials used for different bio-applications.
+
+## Course G: Materials under Extreme Conditions:
+
+This course looks at how extreme conditions such as high pressure, temperature and radiation affect material properties and means of mitigating material degredation. For example we will cover how [single crystal Ni superalloys are used in turbine blades in jet engines above their melting temperature](https://www.youtube.com/watch?v=aFRdp1Js9Kc). 
