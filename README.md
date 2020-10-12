@@ -28,7 +28,7 @@ To reconstruct the crystalline structure from the resulting diffraction pattern,
 
 The mechanical properties of a material are not only dependent on the crystalline structure, but also its microstructure as different phases can be presemt.
 The microstructure that forms depends both on the thermodynamics and the kinetics between the different phases that are possible to form.
-A neat way to look into the thermodynamics is by using Monte Carlo simulations, which can be found here.
+A neat way to look into the thermodynamics is by using Monte Carlo simulations, which can be found [here](https://colab.research.google.com/github/Gio-A-Oakes/Materials_IA/blob/main/Jupyter_notebooks/Gmix.ipynb#scrollTo=tKUsb58oBp18).
 A useful textbook that covers this course is [*Porter, David A., and Kenneth E. Easterling. Phase transformations in metals and alloys (revised reprint). CRC Press, 2009.*](https://ezp.lib.cam.ac.uk/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=1763501&site=ehost-live&scope=site).
 Alternative lectures and lecture notes on this topic can be found [here](https://dyedavid.com/mse104/).
 
