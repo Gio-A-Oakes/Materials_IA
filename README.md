@@ -7,6 +7,8 @@ The first point of reference for any course is the handouts and the lectures the
 Many interactive learning packages have been created over the years at the Materials department present in [DoITPoMS](https://www.doitpoms.ac.uk/).
 A general textbook that covers most of the topics in first-year materials can be found in *Callister, William D., and David G. Rethwisch. Materials science and engineering: an introduction. Vol. 9. New York: Wiley, 2018*.
 
+In addition to this, a set of slides for each supervision can be found [here](https://universityofcambridgecloud-my.sharepoint.com/:f:/g/personal/grl31_cam_ac_uk/Enocz1Dbq7lCmznDKUwd5kgBeV1m5ZYsrrdTeimtmF3jPg?e=mF8zwB). Each supervision will have corresponding lecture summaries, topics that students often find tricky, some additional interesting content beyond the scope of the course, and a related exam question.
+
 ## Course A: Atomic structures of materials:
 
 This is an introductory course into Crystallography, which is the study of how atoms are arranged into an ordered structure.
