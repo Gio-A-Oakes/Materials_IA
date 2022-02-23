@@ -40,6 +40,8 @@ This course looks at how different structures covered in course A and D affect t
 A good reference on dislocations, can be found in [*Hull, Derek, and David J. Bacon. Introduction to dislocations. Butterworth-Heinemann, 2001.*
 ](https://idiscover.lib.cam.ac.uk/permalink/f/t9gok8/44CAM_ALMA51621314410003606)
 
+A jupyter notebook on the mechanical and thermol properties that can be obtained from an inter-atomic potential can be found [here](https://colab.research.google.com/github/Gio-A-Oakes/Materials_IA/blob/main/Jupyter_notebooks/Lennard-Jones%20potential.ipynb#scrollTo=WNU1Ir-0kcG4).
+
 ## Course F: Biomaterials:
 
 The body is a very harsh and dynamic environment, as a result there are only a handful of materials that are bio-compatable. In this course materials-selection charts will be covered to select the most appropritate materials used for different bio-applications.
